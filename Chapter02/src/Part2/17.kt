@@ -1,3 +1,5 @@
+package Part2
+
 class Giraffe
 class Bear
 class Hippo

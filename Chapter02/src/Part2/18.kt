@@ -1,3 +1,5 @@
+package Part2
+
 class House{
     var sofa : String = ""
 }

@@ -1,3 +1,5 @@
+package Part2
+
 class Wombat
 
 class Alien(name: String) {
