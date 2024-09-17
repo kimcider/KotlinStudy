@@ -12,6 +12,4 @@ fun getJsonLineList(): String {
 }
 
 
-class Liner(val name: String) {
-    var flag = false
-}
+data class Liner(val name: String, val flash: Flash = Flash())
